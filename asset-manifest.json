@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/zp-advent-calendar/static/css/main.2a313ab9.css",
-    "main.js": "/zp-advent-calendar/static/js/main.ff220cf3.js",
-    "static/js/787.7d8d803b.chunk.js": "/zp-advent-calendar/static/js/787.7d8d803b.chunk.js",
+    "main.css": "/zp-advent-calendar/static/css/main.b9e48954.css",
+    "main.js": "/zp-advent-calendar/static/js/main.ca76be8a.js",
+    "static/media/maison07.svg": "/zp-advent-calendar/static/media/maison07.f8344f504fedd2b85080a1b470eeac91.svg",
+    "static/media/maison04.svg": "/zp-advent-calendar/static/media/maison04.31f0c3eccad5483443c4504f0ef61833.svg",
+    "static/media/maison06.svg": "/zp-advent-calendar/static/media/maison06.beded48c29e7e7e69017498a0c81e2eb.svg",
+    "static/media/lune.svg": "/zp-advent-calendar/static/media/lune.220c6ccc27adff730a9c425174b23e5d.svg",
+    "static/media/maison09.svg": "/zp-advent-calendar/static/media/maison09.0d9819ef4dee511c5ca4f1a523414e8a.svg",
+    "static/media/maison17.svg": "/zp-advent-calendar/static/media/maison17.c02b7637b5e83ead3ce6931b2f3a4640.svg",
+    "static/media/maison08.svg": "/zp-advent-calendar/static/media/maison08.ee53fc27f9b9ed11492eb9abf4d5d1d3.svg",
+    "static/media/maison03.svg": "/zp-advent-calendar/static/media/maison03.f04e2433abc4a55c1238438cfcc71346.svg",
+    "static/media/maison02.svg": "/zp-advent-calendar/static/media/maison02.36c61dcd003264b599e559738e9376ec.svg",
     "index.html": "/zp-advent-calendar/index.html",
-    "static/media/xButton.svg": "/zp-advent-calendar/static/media/xButton.ae777ea14ed6c6cf7e07c9a903dc48f9.svg",
-    "main.2a313ab9.css.map": "/zp-advent-calendar/static/css/main.2a313ab9.css.map",
-    "main.ff220cf3.js.map": "/zp-advent-calendar/static/js/main.ff220cf3.js.map",
-    "787.7d8d803b.chunk.js.map": "/zp-advent-calendar/static/js/787.7d8d803b.chunk.js.map"
+    "main.b9e48954.css.map": "/zp-advent-calendar/static/css/main.b9e48954.css.map",
+    "main.ca76be8a.js.map": "/zp-advent-calendar/static/js/main.ca76be8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a313ab9.css",
-    "static/js/main.ff220cf3.js"
+    "static/css/main.b9e48954.css",
+    "static/js/main.ca76be8a.js"
   ]
 }
