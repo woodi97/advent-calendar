@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/zp-advent-calendar/static/css/main.056cda33.css",
-    "main.js": "/zp-advent-calendar/static/js/main.a0d5a91b.js",
-    "static/media/maison07.svg": "/zp-advent-calendar/static/media/maison07.f8344f504fedd2b85080a1b470eeac91.svg",
+    "main.css": "/zp-advent-calendar/static/css/main.30545fb3.css",
+    "main.js": "/zp-advent-calendar/static/js/main.4b2d31e6.js",
+    "static/media/maisonLight.svg": "/zp-advent-calendar/static/media/maisonLight.53eeb43ccbfe92824449a486f0ecef76.svg",
     "static/media/maison04.svg": "/zp-advent-calendar/static/media/maison04.31f0c3eccad5483443c4504f0ef61833.svg",
     "static/media/maison06.svg": "/zp-advent-calendar/static/media/maison06.beded48c29e7e7e69017498a0c81e2eb.svg",
     "static/media/lune.svg": "/zp-advent-calendar/static/media/lune.220c6ccc27adff730a9c425174b23e5d.svg",
@@ -12,11 +12,11 @@
     "static/media/maison03.svg": "/zp-advent-calendar/static/media/maison03.f04e2433abc4a55c1238438cfcc71346.svg",
     "static/media/maison02.svg": "/zp-advent-calendar/static/media/maison02.36c61dcd003264b599e559738e9376ec.svg",
     "index.html": "/zp-advent-calendar/index.html",
-    "main.056cda33.css.map": "/zp-advent-calendar/static/css/main.056cda33.css.map",
-    "main.a0d5a91b.js.map": "/zp-advent-calendar/static/js/main.a0d5a91b.js.map"
+    "main.30545fb3.css.map": "/zp-advent-calendar/static/css/main.30545fb3.css.map",
+    "main.4b2d31e6.js.map": "/zp-advent-calendar/static/js/main.4b2d31e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.056cda33.css",
-    "static/js/main.a0d5a91b.js"
+    "static/css/main.30545fb3.css",
+    "static/js/main.4b2d31e6.js"
   ]
 }
